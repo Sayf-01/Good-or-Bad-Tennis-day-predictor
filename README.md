@@ -6,6 +6,6 @@ The video covers utilizing a Decision Tree using the Sklearn/tree library [2] , 
 #
 
 
-#Sources:
+# Sources:
 [1] https://www.youtube.com/watch?v=T5pRlIbr6gg
 [2] https://scikit-learn.org/stable/modules/tree.html
