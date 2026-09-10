@@ -1,4 +1,4 @@
-# Male or Female predictor - Data Science Project
+# Good or Bad Tennis day predictor - Data Science Project
 
 I found a Data Science project through a github repo, which directed me towards this video [1]. I'm aiming to first learn through project based work, to get a better grasp about Data Science. 
 #
