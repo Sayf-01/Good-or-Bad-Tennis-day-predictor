@@ -19,7 +19,7 @@ I created a test file, with the support of Claude, to check that the encoding, t
 
 Working through this project gave me a good grasp of how a decision tree actually works. it's a surprisingly linear and straightforward idea: at each step, the tree picks whichever question splits the data most cleanly, using Gini impurity to measure "how mixed/ how impure" the labels are after each possible split.
 
-Beyond the algorithm itself, this was a good refresher on the rhythm of writing code.
+Beyond the algorithm itself, this was a good refresher on the rhythm of writing code and a reminder how many interesting things are out there to be learned.
 
 
 ## Sources:
